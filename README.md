@@ -1,4 +1,5 @@
 This project demonstrates how a sample data of Reddit posts is transferred using kafka between Mongodb Database and ElasticSearch. Later, Rest APIs are implemented to search data in ES database such that most of the fields are searchable.
+
 Mini Project
 Specifications
 Ports:
